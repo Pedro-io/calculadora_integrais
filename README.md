@@ -30,3 +30,7 @@ A Calculadora de Integrais possui uma interface simples e intuitiva. Aqui estão
 A Calculadora de Integrais é uma ferramenta educacional poderosa para estudantes, professores e entusiastas da matemática. Use-a para praticar cálculos de integrais, verificar seus resultados e entender os passos intermediários envolvidos.
 
 Esperamos que a Calculadora de Integrais seja útil em suas explorações matemáticas
+
+# Link para acesso:
+[Clique aqui para acessar a calculadora](https://pedro-io-calculadora-integrais-main-0yq063.streamlit.app/)
+
